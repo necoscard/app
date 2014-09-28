@@ -105,7 +105,7 @@ public class MainActivity extends ActionBarActivity {
 	}
  
  	
- 	//
+ 	//@@
  	
  	public void onclick2(View view) {
  		//pWebView.loadUrl("http://www.yahoo.co.jp/");	
